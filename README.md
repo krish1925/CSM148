@@ -1,0 +1,2 @@
+## Coursework for CSM148 -> Introduction to Data Science
+This repository contains projects showcasing various data analysis and machine learning techniques using Python and popular libraries like NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn. Topics covered in ths class: spanning data collection, cleaning, augmentation, model building, evaluation, and interpretation, gaining practical skills applicable to real-world data science scenarios
